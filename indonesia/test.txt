@@ -1,1 +1,1 @@
-
+adb  shell  am broadcast -a com.nuri.datacapture.ACTION  -e  com.symbol.datawedge.data_string QR*2205290100100S240529300002037506-BY000
